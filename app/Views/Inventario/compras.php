@@ -16,6 +16,9 @@
     <!-- Custom CSS -->
     <link href="../../assets/libs/chartist/dist/chartist.min.css" rel="stylesheet">
     <!-- Custom CSS -->
+    <link rel="stylesheet" styles="text/css" href="assets/css/styles.css"/>
+    <link rel="stylesheet" styles="text/css" href="assets/css/responsive.css"/>
+
     <link href="<?=base_url('assets/css/style.min.css')?>" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
@@ -33,19 +36,17 @@
     <link href="css/sb-admin-2.min.css" rel="stylesheet">
 
 </head>
-
-<body class="bg-gradient-success">
-<aside class="left-sidebar" data-sidebarbg="skin5">
+<aside class="left-sidebar"  id="asideCompartido">
             <!-- Sidebar scroll-->
             <div class="scroll-sidebar">
                 <!-- Sidebar navigation-->
-                <nav class="sidebar-nav">
-                    <ul id="sidebarnav">
+                <nav class="sidebar-nav asideLetras">
+                    <ul id="sidebarnav" >
                         <li class="sidebar-item">
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url()?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-av-timer"></i>
-                                <span class="hide-menu">Home</span>
+                                <span class="hide-menu">Menu</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
@@ -90,6 +91,7 @@
             </div>
             <!-- End Sidebar scroll-->
         </aside>
+<body class="bg-success">
 
     <div class="container">
 

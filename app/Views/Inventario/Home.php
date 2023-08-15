@@ -156,7 +156,7 @@
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/FormularioV')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-arrange-bring-forward"></i>
-                                <span class="hide-menu">FormularioVentas</span>
+                                <span class="hide-menu">Compras</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
@@ -193,7 +193,7 @@
             <div class="page-breadcrumb">
                 <div class="row">
                     <div class="col-5 align-self-center">
-                        <h4 class="page-title">Home</h4>
+                        <h4 class="page-title">Bienvenido al instituto nacional de bosques</h4>
                     </div>
                     <div class="col-7 align-self-center">
                         <div class="d-flex align-items-center justify-content-end">
