@@ -6,7 +6,7 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('Inventario/login');
+        return view('Inventario/Home');
     }
 
     public function PopUp()
