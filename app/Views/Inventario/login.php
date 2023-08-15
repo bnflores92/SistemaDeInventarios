@@ -42,7 +42,7 @@
                     <!-- Logo -->
                     <!-- ============================================================== -->
                     <div class="navbar-brand" style="background:#98bf64">
-                        <a href="<?=base_url()?>" class="logo">
+                        <a href="" class="logo">
                             <!-- Logo icon -->
                             <b class="logo-icon">
                                 <!-- Light Logo icon -->
