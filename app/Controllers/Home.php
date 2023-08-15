@@ -15,6 +15,6 @@ class Home extends BaseController
     }
     public function FormularioV()
     {
-        return view('Inventario/compras');
+        return view('Inventario/compras');//XDXDXDXDXDXD
     }
 }
