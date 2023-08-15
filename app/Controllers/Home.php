@@ -17,4 +17,8 @@ class Home extends BaseController
     {
         return view('Inventario/compras');
     }
+    // public function LoginINAB()
+    // {
+    //     return view('Inventario/login')
+    // }
 }

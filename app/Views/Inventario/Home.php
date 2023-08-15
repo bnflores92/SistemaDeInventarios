@@ -106,8 +106,8 @@
                             <ul class="dropdown-menu dropdown-menu-end user-dd animated" aria-labelledby="navbarDropdown">
                                 <a class="dropdown-item" href="javascript:void(0)"><i class="ti-user me-1 ms-1"></i>
                                     Perfil</a>
-                                <a class="dropdown-item" href="javascript:void(0)"><i class="ti-wallet me-1 ms-1"></i>
-                                    Accesos</a>
+                                <a class="dropdown-item" href="<?=base_url('/LoginINAB')?>" ><i class="ti-wallet me-1 ms-1"></i>
+                                    Login</a>
                                 <a class="dropdown-item" href="javascript:void(0)"><i class="ti-bell me-1 ms-1"></i>
                                     Notificaciones</a>
                             </ul>
