@@ -11,10 +11,10 @@ class Home extends BaseController
 
     public function PopUp()
     {
-        return view('Inventario/PopUp');//holaQQQQ
+        return view('Inventario/PopUp');
     }
     public function FormularioV()
     {
-        return view('Inventario/compras');//XDXDXDXDXDXD
+        return view('Inventario/compras');
     }
 }
