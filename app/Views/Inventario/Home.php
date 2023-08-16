@@ -142,7 +142,7 @@
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/PopUp')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-account-network"></i>
-                                <span class="hide-menu">Opcion 1</span>
+                                <span class="hide-menu">Inventarios</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
