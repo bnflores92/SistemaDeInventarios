@@ -135,35 +135,35 @@
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url()?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-av-timer"></i>
-                                <span class="hide-menu">Home</span>
+                                <span class="hide-menu">Menu</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/PopUp')?>"
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/ListaCompra')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-account-network"></i>
-                                <span class="hide-menu">Inventarios</span>
+                                <span class="hide-menu">Opcion 1</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="#"
                                 aria-expanded="false">
                                 <i class="mdi mdi-arrange-bring-forward"></i>
-                                <span class="hide-menu">Opcion 2</span>
+                                <span class="hide-menu">Robo o Pérdida</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/FormularioV')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-arrange-bring-forward"></i>
-                                <span class="hide-menu">Compras</span>
+                                <span class="hide-menu">Regiones y Subregiones</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="#"
                                 aria-expanded="false">
                                 <i class="mdi mdi-border-none"></i>
-                                <span class="hide-menu">Opcion 3</span>
+                                <span class="hide-menu">Almacén de bajas temporales</span>
                             </a>
                         </li>
                         <li class="sidebar-item">

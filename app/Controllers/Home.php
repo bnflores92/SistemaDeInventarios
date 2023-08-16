@@ -21,5 +21,9 @@ class Home extends BaseController
     {
         return view('Inventario/login');
     }
+    public function ListaCompra()
+    {
+        return view('Inventario/ListaCompra');
+    }
 
 }
