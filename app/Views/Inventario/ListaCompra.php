@@ -12,7 +12,6 @@
     <!-- Custom CSS -->
     <link href="../../assets/libs/chartist/dist/chartist.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="<?= base_url('assets/css/sb-admin-2.,in.css')?>" rel="stylesheet">
     <link href="<?= base_url('assets/css/style.min.css') ?>" rel="stylesheet">
     <!--<link href="http://localhost:41062/www/app/Views/Inventario/dist/css/style.min.css'" rel="stylesheet">-->
 
