@@ -35,6 +35,7 @@ $routes->get('/', 'Home::index');
 $routes->get('/PopUp', 'Home::PopUp');
 $routes->get('/FormularioV','Home::FormularioV');
 $routes->get('/LoginINAB','Home::LoginINAB');
+$routes->get('/ListaCompra','Home::ListaCompra');
 
 /*
  * --------------------------------------------------------------------
