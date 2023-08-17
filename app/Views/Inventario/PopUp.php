@@ -139,7 +139,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/PopUp')?>"
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/ListaCompra')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-account-network"></i>
                                 <span class="hide-menu">Unidad de compras</span>
@@ -153,7 +153,7 @@
                             </a>
                         </li>
                         <li class="sidebar-item">
-                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="#"
+                            <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/ListaRegionesYSub')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-border-none"></i>
                                 <span class="hide-menu">Regiones y Subregiones</span>

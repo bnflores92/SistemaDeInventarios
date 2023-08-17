@@ -6,7 +6,7 @@ class Home extends BaseController
 {
     public function index()
     {
-        return view('Inventario/Home');
+        return view('Home');
     }
 
     public function PopUp()
@@ -15,15 +15,19 @@ class Home extends BaseController
     }
     public function FormularioV()
     {
-        return view('Inventario/compras');
+        return view('Compras/compras');
     }
     public function LoginINAB()
     {
-        return view('Inventario/login');
+        return view('login');
     }
     public function ListaCompra()
     {
         return view('Inventario/ListaCompra');
+    }
+    public function ListaRegionesYSub()
+    {
+        return view('Inventario/ListaRegionesYSub');
     }
 
 }

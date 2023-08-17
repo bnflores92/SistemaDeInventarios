@@ -156,7 +156,7 @@
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="<?=base_url('/FormularioV')?>"
                                 aria-expanded="false">
                                 <i class="mdi mdi-arrange-bring-forward"></i>
-                                <span class="hide-menu">Regiones y Subregiones</span>
+                                <span class="hide-menu">Compras</span>
                             </a>
                         </li>
                         <li class="sidebar-item">
@@ -170,7 +170,7 @@
                             <a class="sidebar-link waves-effect waves-dark sidebar-link" href="#"
                                 aria-expanded="false">
                                 <i class="mdi mdi-face"></i>
-                                <span class="hide-menu">Opcion 4</span>
+                                <span class="hide-menu">Regiones y Subregiones</span>
                             </a>
                         </li>
                         
