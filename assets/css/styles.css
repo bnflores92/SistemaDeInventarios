@@ -1,0 +1,8 @@
+#asideCompartido{
+    background:#367B05 ;
+    border: 1px solid #444;
+   }
+#asideCompartido ul li a {
+    text-decoration: none;
+}
+
